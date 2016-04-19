@@ -1,3 +1,3 @@
 # WaterFlow
 瀑布流
-UIScrollView封装的瀑布流控件，仿tableview实现
+UIScrollView封装的瀑布流控件，仿tableview实现自定义cell和复用功能
